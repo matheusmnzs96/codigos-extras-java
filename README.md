@@ -1,1 +1,1 @@
-repositório com códigos fontes em Java que podem ser úteis no dia a dia
+Repositório com algoritmos em Java que podem ser úteis no dia a dia.
